@@ -1,0 +1,6 @@
+1.what is happening in retrievel
+2.how is the sentence generated
+3.what other variation will you recommend
+4.what does IDF do in your project?-- it reduces the time to search for the relevant documents by giving more weight to the less common words in the document collection. This helps to improve the accuracy of the retrieval process by prioritizing the more informative terms.
+5.how do you evaluate the performance of your retrieval system?-- We evaluate the performance of our retrieval system using metrics such as precision, recall, and F1 score. Precision measures the proportion of relevant documents retrieved out of all documents retrieved, while recall measures the proportion of relevant documents retrieved out of all relevant documents in the collection. The F1 score is a harmonic mean of precision and recall, providing a single metric to assess the overall performance of the retrieval system.
+6.what are the challenges you faced in implementing the retrieval system?-- Some of the challenges we faced include handling large volumes of data, ensuring the relevance of retrieved documents, and optimizing the search algorithms for efficiency. Additionally, we had to address issues related to natural language processing, such as understanding synonyms and context in user queries.
