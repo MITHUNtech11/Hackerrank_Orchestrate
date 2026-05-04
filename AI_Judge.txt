@@ -6,3 +6,4 @@
 6.what are the challenges you faced in implementing the retrieval system?-- Some of the challenges we faced include handling large volumes of data, ensuring the relevance of retrieved documents, and optimizing the search algorithms for efficiency. Additionally, we had to address issues related to natural language processing, such as understanding synonyms and context in user queries.
 
 Mithun was here
+completed figma design for app
